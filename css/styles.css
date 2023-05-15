@@ -1,6 +1,5 @@
 .title-text {
     font-family: 'Roboto';
-    font-weight: 700;
     font-size: 36px;
     line-height: 1.12;
     color: var(--header-color);
@@ -17,8 +16,6 @@
 
 .text-description {
     font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -34,6 +31,12 @@
 }
 
 
+
+
+
+
+
+/* -------------------------------------------- */
 :root {
     --header-color: #2E2F42;
 
@@ -161,8 +164,6 @@ body {
 .main-title-text {
     color: #FFFFFF;
     font-family: 'Roboto';
-
-    font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -179,9 +180,6 @@ body {
     letter-spacing: 0.04em;
     background-color: #4D5AE5;
     cursor: pointer;
-
-
-
 }
 
 .button-main:hover,
@@ -210,7 +208,7 @@ body {
 
 }
 
-/*------------------SECTION 3---------------- */
+/* SECTION 3 */
 
 
 .work-title {
@@ -224,7 +222,7 @@ body {
 
 
 
-/* -------------SECTION TEAM---------- */
+/* SECTION TEAM */
 .team-list {
 
     background-color: #F4F4FD;
@@ -324,7 +322,7 @@ body {
 
 
 
-/* ----------Footer------------*/
+/* ------Footer */
 .foot {
     background-color: #2E2F42;
     color: #F4F4FD;
